@@ -1,4 +1,12 @@
-#boton{
-	background: #21738B;
-	color: #fff;
+.programacion{
+	color: red;
+}
+
+.baseDeDatos{
+	color: blue;
+}
+
+.contenedor{
+	background: #B4AEAE;
+	text-align: center;
 }
